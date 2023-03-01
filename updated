@@ -149,7 +149,7 @@
                 </div>
                 <div class="biography-contents col-9 col-sm-10 col-md-9 col-lg-10">
                   <h4>BA Creative Business, Breda University of Applied Sciences</h4>
-                  <h6>September 2018&nbsp;&ndash;&nbsp;now</h5>
+                  <h6>September 2021&nbsp;&ndash;&nbsp;now</h5>
                   <!-- Use the list below to talk about minors, exchanges, extra-curricular activities. -->
                   <ul class="biography-details list-unstyled">
                     <li>Integration of content</li>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="biography-contents col-9 col-sm-10 col-md-9 col-lg-10">
                   <h4>High School Diploma, San Marin High school</h4>
-                  <h6>August 2015&nbsp;&ndash;&nbsp;2018</h5>
+                  <h6>August 2015&nbsp;&ndash;&nbsp;June 2018</h5>
                   <ul class="biography-details list-unstyled">
                     <li>Collaborative projects</li>
                     <li>Research specialist</li>
@@ -199,25 +199,25 @@
             -->
             <ul class="contact-list list-unstyled">
               <li class="contact-item">
-                <a class="d-flex align-items-center" href="mailto:email@buas.nl" target="_blank">
+                <a class="" href="mailto:email@buas.nl" target="_blank">
                   <img class="contact-icon" src="images/icons/envelope.svg" alt="Email">
                   chrisaniadaniel00@gmail.com
                 </a>
               </li>
               <li class="contact-item">
-                <a class="d-flex align-items-center" href="https://facebook.com/" target="_blank">
-                  <img class="contact-icon" style="height: 10px" src="images/icons/biggg.png" alt="Facebook">
+                <a class="" href="https://facebook.com/" target="_blank">
+                  <img class="contact-icon" width="18" height="18" src="images/icons/biggg.png" alt="Facebook">
                    chrisaniadaniel
                 </a>
               </li>
               <li class="contact-item">
-                <a class="d-flex align-items-center" href="https://github.com/" target="_blank">
+                <a class="" href="https://github.com/" target="_blank">
                   <img class="contact-icon" src="images/icons/youtube.svg" alt="LinkedIn">
                   YourSisChris
                 </a>
               </li>
               <li class="contact-item">
-                <a class="d-flex align-items-center" href="tel:+31612345678" target="_blank">
+                <a class="" href="tel:+31612345678" target="_blank">
                   <img class="contact-icon" src="images/icons/phone.svg" alt="Mobile Phone">
                   +31 6 34445631
                 </a>
